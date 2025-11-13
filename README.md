@@ -26,7 +26,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```bibtex
 @inproceedings{fvnet2026aaai,
   title     = {FVNet: Harnessing Liquid Neural Dynamics for Lightweight Visual Representation},
-  author    = {HZZRua and {et al.}Zhenzhe Hou and Xiaohui Chu1 and Runze Hu and Yang Li and Yutao Liu},
+  author    = {Zhenzhe Hou and Xiaohui Chu1 and Runze Hu and Yang Li and Yutao Liu},
   booktitle = {AAAI Conference on Artificial Intelligence},
   year      = {2026}
 }
