@@ -16,7 +16,6 @@ Efficient visual backbone design remains crucial for resource-constrained comput
 ## 💻 Code Release
 
 The source code, pretrained models, and experiment configurations are currently being organized.
-**The code will be released here soon**
 
 
 ## 🙏 Citation
